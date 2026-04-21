@@ -60,7 +60,7 @@ def run_merge(input_file, progress_bar):
         output_filepath = str(os.path.join(os.path.dirname(input_file),output_file)).replace("/","\\")
 
         # Export to file
-        with open(output_file,"w") as fout:
+        with open(output_filepath,"w") as fout:
             fout.writelines(f">{name}\n{target}\n" for name, target in zip(miRNA_names, mrna_targets))
 
         progress_bar.stop()

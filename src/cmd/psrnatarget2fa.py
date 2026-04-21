@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 ##################################
 # Author: Olga Tsiouri
 # Website: https://linktr.ee/otsiouri
