@@ -2,7 +2,7 @@
 ##################################
 # Author: Olga Tsiouri
 # Website: https://linktr.ee/otsiouri
-# Usage: psrnatarget.py <psrnatarget_output.txt>
+# Usage: psrnatarget2fa.py <psrnatarget_output.txt>
 ##################################
 
 """
