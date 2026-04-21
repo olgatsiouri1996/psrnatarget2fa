@@ -37,12 +37,12 @@ sudo cp psrnatarget2fa.py /usr/bin
 For windows:
 
 ```Shell
-psrnatarget psRNATargetJob-1776680362544351.txt
+psrnatarget2fa psRNATargetJob-1776680362544351.txt
 ```
 For linux:
 
 ```Bash
-psrnatarget.py psRNATargetJob-1776680362544351.txt
+psrnatarget2fa.py psRNATargetJob-1776680362544351.txt
 ```
 
 **Note: This program assumes you check for target accessibility when running psRNATarget**  
